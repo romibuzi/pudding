@@ -1,4 +1,4 @@
 pudding
 ============
 
-Exploring stuff, mostly in scala
+Exploring stuff
