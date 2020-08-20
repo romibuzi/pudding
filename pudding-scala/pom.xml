@@ -17,7 +17,7 @@
         <scala-major.version>2.13</scala-major.version>
         <scala.exact.version>${scala-major.version}.3</scala.exact.version>
 
-        <zio.version>1.0.0</zio.version>
+        <zio.version>1.0.1</zio.version>
         <scalatest.version>3.1.1</scalatest.version>
         
         <skipTests>false</skipTests>
